@@ -9,6 +9,11 @@
 2. `cd cd 037-integrate-jsf-spring-boot`
 1. `mvn spring-boot:run`
 1. Visit http://localhost:8080/index.faces
+2. `mvn eclipse:eclipse`
+3. import the project into eclipse Mars
+4. Edit JsfBean to change the message
+5. Run com.levelup.Application
+6. visit http://localhost:8080/index.faces
 2. Study the notes and videos above & be happy!
 
 
